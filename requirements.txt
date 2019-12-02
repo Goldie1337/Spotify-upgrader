@@ -1,4 +1,3 @@
-setuptools==1.0
 aiohttp
 json
 re
