@@ -1,1 +1,8 @@
-
+aiohttp
+json
+re
+os
+time
+subprocess
+colorama
+discord
