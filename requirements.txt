@@ -5,6 +5,10 @@ colorlog
 cffi --only-binary all; 
 aiohttp>=3.3.0,<3.6.0
 websockets>=6.0,<7.0
-chardet
-opuslib
-pynacl==1.2.1
+json
+re
+os
+time
+subprocess
+colorama
+discord
